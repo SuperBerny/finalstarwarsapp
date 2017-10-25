@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.15.0",
-    "express": "^4.13.4"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,5 +13,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperBerny/finalstarwarsapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuperBerny/finalstarwarsapp/issues"
+  },
+  "homepage": "https://github.com/SuperBerny/finalstarwarsapp#readme"
 }
